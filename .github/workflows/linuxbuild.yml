@@ -19,4 +19,4 @@ jobs:
         platform: x64
 
     - name: Build BOFs
-      run: cd BOFs && make
+      run: cd BOF && make
